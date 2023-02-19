@@ -7,14 +7,14 @@ Definir audiencia : profesionales informaticos que queiren aprender un motor de 
 # Estructura de capitulos o temas a escribir
 
 Introducción a PostgreSQL: <br>
-Instalación y configuración: 
-Diseño de base de datos:
-SQL: 
-Mantenimiento de la base de datos: 
-Seguridad: 
-Herramientas de administración: 
-Escalabilidad y alta disponibilidad: 
-Integración con otras herramientas: 
-Casos de uso y buenas prácticas: 
-...
-Otros temas
+Instalación y configuración: <br>
+Diseño de base de datos: <br>
+SQL: <br>
+Mantenimiento de la base de datos: <br> 
+Seguridad: <br>
+Herramientas de administración: <br>
+Escalabilidad y alta disponibilidad: <br> 
+Integración con otras herramientas: <br>
+Casos de uso y buenas prácticas: <br>
+... <br>
+Otros temas <br>
