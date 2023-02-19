@@ -6,7 +6,7 @@ Definir audiencia : profesionales informaticos que queiren aprender un motor de 
 
 # Estructura de capitulos o temas a escribir
 
-Introducción a PostgreSQL: 
+Introducción a PostgreSQL: <br>
 Instalación y configuración: 
 Diseño de base de datos:
 SQL: 
