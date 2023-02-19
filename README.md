@@ -1,10 +1,10 @@
-# mi-libro-postgres
-Proyecto personal : Escribir un libro relacionado con PostgreSQL
+## mi-libro-postgres
+*Proyecto personal : Escribir un libro relacionado con PostgreSQL*
 
 Definir titulo para el libro
 Definir audiencia : profesionales informaticos que queiren aprender un motor de base de datos
 
-## Estructura de capitulos o temas a escribir
+# Estructura de capitulos o temas a escribir
 
 Introducción a PostgreSQL: 
 Instalación y configuración: 
