@@ -18,3 +18,5 @@ Integración con otras herramientas: <br>
 Casos de uso y buenas prácticas: <br>
 ... <br>
 Otros temas <br>
+
+Este es mi area de redaccion del libro [Postgres en la vida de un DBA](https://docs.google.com/document/d/1egqTe6cl7wynWzWbUUqCxXuyRCOe49r6GiT_HAY_VvQ/edit).
