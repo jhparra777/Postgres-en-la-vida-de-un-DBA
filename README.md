@@ -1,4 +1,4 @@
-# mi-libro-postgres
+# Mi Libro PostgreSQL por Ing. Jesus Parra
 *Proyecto personal : Escribir un libro relacionado con PostgreSQL*
 
 Definir titulo para el libro <br>
