@@ -1,4 +1,4 @@
-# Mi Libro PostgreSQL por Ing. Jesus Parra
+# Postgres en la vida de un DBA por Ing. Jesus Parra
 *Proyecto personal : Escribir un libro relacionado con PostgreSQL*
 
 Definir titulo para el libro <br>
